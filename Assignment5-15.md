@@ -4,7 +4,7 @@
 
 | Group \#: 15      |   |
 |-----------------|---|
-| Student Names:  |   |
+| **Student Names:**  |   |
 | Sina Salimian   |   |
 | Zahra Safari    |   |
 | Alireza Esmaili |   |
